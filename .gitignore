@@ -1,3 +1,5 @@
+*.cfg
+*.egg-info
 *.log
 *.pot
 *.pyc
